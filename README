@@ -1,0 +1,19 @@
+Compiling:
+# make
+
+Installation:
+# make install
+
+By default, files are installed into /usr/local.
+
+Compiling example
+# make example
+
+The single threaded example
+# cd example
+# ./start_st_server
+
+The pthreaded example
+# cd example
+# ./start_pt_server
+

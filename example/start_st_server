@@ -1,0 +1,4 @@
+#!/bin/bash
+
+LD_LIBRARY_PATH=../out/lib ./ex_st_svr
+
